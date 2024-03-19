@@ -1,6 +1,5 @@
 import streamlit as st
 from datetime import datetime, timedelta
-import Forecast.Results as Results
 from streamlit import session_state as ss
 def add_logo():
     st.markdown(
